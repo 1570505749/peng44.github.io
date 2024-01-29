@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-8daa1a0e","path":"/","title":"首页","lang":"zh-CN","frontmatter":{"home":true,"title":"首页","footer":"Copyright © 2023-present pengf"},"headers":[],"git":{"updatedTime":1679410068000,"contributors":[{"name":"pengf","email":"pengf.p@qq.com","commits":1}]},"filePathRelative":"README.md"}');export{e as data};
